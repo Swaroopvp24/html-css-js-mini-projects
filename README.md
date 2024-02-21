@@ -1,6 +1,5 @@
 
 # HTML CSS JS MINI PROJECTS
-1.**Web-Based Games Documentation**
 
 1. **Tic Tac Toe:**
    - Files: `index.html`, `style.css`, `script.js`
@@ -10,3 +9,6 @@
    - Files: `index.html`, `style.css`, `script.js`
    - Features: User-friendly interface, score tracking.
 
+3. **Age calculator:**
+   - Files:`index.html`,`style.css`,`script.js`
+   - Features: Calculates exact age in years,Responsive design.
