@@ -12,3 +12,7 @@
 3. **Age calculator:**
    - Files:`index.html`,`style.css`,`script.js`
    - Features: Calculates exact age in years,Responsive design.
+
+4. **Weather Web-Application:**
+   - Files:`index.html`,`style.css`,`script.js`,`responsive.css`,`btn.jpg`,`weather.jpg`
+   - Features: User-friendly weather search application,Responsive design.

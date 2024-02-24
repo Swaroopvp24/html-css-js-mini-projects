@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+    .mainbody {
+        padding-top: 6rem; /* Adjusted padding */
+    }
+
+    .card {
+        height: auto; /* Adjusted height */
+        max-height: 400px; /* Maximum height */
+    }
+
+    .details {
+        padding-top: 2rem; /* Adjusted padding */
+        gap: 2rem; /* Adjusted gap */
+    }
+
+    .weatherdetails {
+        font-size: 24px; /* Adjusted font size */
+    }
+
+    .humidity, .windspeed {
+        font-size: 20px; /* Adjusted font size */
+    }
+
+    #searchb {
+        height: 1.6rem; /* Adjusted height */
+    }
+
+}

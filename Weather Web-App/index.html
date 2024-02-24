@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
+</head>
+
+<body>
+
+    <div class="mainbody">
+        <div class="card loading">
+            <div class="cardtop">
+                <div class="searchbar">
+                    <input type="text" placeholder="Enter the name of the place" id="searchb">
+                </div>
+                <div class="searchbutton">
+                    <button type="button" id="searchbtn">
+                        <img src="btn.png" alt="btn icon" id="searchimg">
+                    </button>
+                </div>
+            </div>
+            <div class="details">
+                <div class="weatherdetails">Weather in <span id="city">Bengaluru</span> is <span id="temp">51°C</span></div>
+                <div class="humidity">Humidity: <span id="hum">65%</span></div>
+                <div class="windspeed">Wind Speed: <span id="winds">5.14km/hr</span></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="tq">
+            <p><h2>Designed by Swaroop</h2></p>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

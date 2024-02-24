@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(weather.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center; 
+    height: 100vh;
+    width: 100vw;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.loading {
+    visibility: hidden;
+    max-height: 20px;
+    position: relative;
+  }
+
+.mainbody,.footer,.cardtop{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainbody{
+    padding-top: 9rem ;
+}
+
+.footer{
+    padding-top: 2rem ;
+}
+
+.card {
+    background: #000000d0;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    height: 300px;
+  }
+
+.cardtop{
+    gap: 0.6rem;
+}
+
+.details{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3.5rem;
+    padding: 4rem 0 0.6rem 0;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.weatherdetails{
+    font-size: 30px;
+}
+
+.humidity,.windspeed{
+    font-size: 25px;
+}
+    
+#searchimg{
+    width: 1.6rem;
+    height: 1.3rem;
+}
+
+#searchb{
+    height: 1.9rem;
+    border: none;
+    border-radius: 11px;
+  }
