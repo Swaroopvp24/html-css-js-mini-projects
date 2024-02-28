@@ -13,7 +13,11 @@
 <ul>
   <li>Open Weather API</li>
 </ul>
+
 #### Steps to Use:
+
+  
+
 ---
 
 - Download or clone the repository
