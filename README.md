@@ -16,3 +16,7 @@
 4. **Weather Web-Application:**
    - Files:`index.html`,`style.css`,`script.js`,`responsive.css`,`btn.jpg`,`weather.jpg`
    - Features: User-friendly weather search application,Responsive design.
+
+5. **simple Calculator:**
+   - Files:`index.html`,`style.css`,`script.js`
+   - Features: Simple and easy to use , User friendly interface.
