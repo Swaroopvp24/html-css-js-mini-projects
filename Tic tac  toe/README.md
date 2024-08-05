@@ -22,9 +22,9 @@
 git clone https://github.com/Swaroopvp24/html-css-js-mini-projects.git
 ```
 - Go to the directory
+- Open Tic tac toe folder
 - Run the index.html file
-- Just Type the city name you want to know the weather of, and then click on the search button.
-- After that it will automatically display Weather, Humidity, Wind Speed of the city.
+- Take a break for sometime and enjoy the game.
 =======
 
 
