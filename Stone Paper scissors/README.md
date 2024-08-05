@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>Stone paper scissors game web application</h1>
 
 <p>Simple Stone paper scissors game app written in HTML, CSS, and JavaScript for a fun break.</p>
