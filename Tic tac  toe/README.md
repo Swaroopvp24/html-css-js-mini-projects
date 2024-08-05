@@ -27,5 +27,4 @@ git clone https://github.com/Swaroopvp24/html-css-js-mini-projects.git
 - After that it will automatically display Weather, Humidity, Wind Speed of the city.
 =======
 
->>>>>>> 24e6ffb1de671f4c5ff0b65e39b3117ece142178
 
