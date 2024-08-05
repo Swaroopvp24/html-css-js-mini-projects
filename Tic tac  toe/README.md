@@ -25,6 +25,6 @@ git clone https://github.com/Swaroopvp24/html-css-js-mini-projects.git
 - Open Tic tac toe folder
 - Run the index.html file
 - Take a break for sometime and enjoy the game.
-=======
+
 
 
