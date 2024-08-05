@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>Tic Tac Toe game web application</h1>
 
 <p>Simple Tic Tac Toe game app written in HTML, CSS, and JavaScript for a fun break.</p>
