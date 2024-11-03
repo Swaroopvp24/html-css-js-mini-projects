@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>Stone paper scissors game web application</h1>
 
 <p>Simple Stone paper scissors game app written in HTML, CSS, and JavaScript for a fun break.</p>
@@ -25,7 +25,7 @@ git clone https://github.com/Swaroopvp24/html-css-js-mini-projects.git
 - Open Stone paper scissors folder
 - Run the index.html file
 - Take a break for sometime and enjoy the game.
-=======
+
 
 
 

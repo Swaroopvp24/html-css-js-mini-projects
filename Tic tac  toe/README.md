@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>Tic Tac Toe game web application</h1>
 
 <p>Simple Tic Tac Toe game app written in HTML, CSS, and JavaScript for a fun break.</p>
@@ -25,6 +25,6 @@ git clone https://github.com/Swaroopvp24/html-css-js-mini-projects.git
 - Open Tic tac toe folder
 - Run the index.html file
 - Take a break for sometime and enjoy the game.
-=======
+
 
 
