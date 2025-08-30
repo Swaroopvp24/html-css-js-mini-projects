@@ -20,3 +20,7 @@
 5. **simple Calculator:**
    - Files:`index.html`,`style.css`,`script.js`
    - Features: Simple and easy to use , User friendly interface.
+
+6. **Enhanced Blog Application:**
+   - Files: `index.html`, `style.css`, `app.js`
+   - Features: Professional-grade blogging platform with persistent localStorage, real-time search, dark/light themes, responsive design, and advanced user experience enhancements.
